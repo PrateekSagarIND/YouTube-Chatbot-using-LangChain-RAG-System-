@@ -25,19 +25,17 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot that answ
 6. Generate answers using LLM  
 
 ---
-
 ## 📂 Project Structure
 
+<pre>
 youtube-rag-chatbot/
-│
 ├── notebook/
-│ └── youtube_rag_chatbot.ipynb
-│
+│   └── youtube_rag_chatbot.ipynb
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
 └── .env
-
+</pre>
 ---
 
 ## ⚙️ Installation
