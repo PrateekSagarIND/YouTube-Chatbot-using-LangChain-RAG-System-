@@ -29,18 +29,13 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot that answ
 ## 📂 Project Structure
 
 youtube-rag-chatbot/
-
 │
 ├── notebook/
-│   └── youtube_rag_chatbot.ipynb
-
+│ └── youtube_rag_chatbot.ipynb
 │
 ├── README.md
-
 ├── requirements.txt
-
 ├── .gitignore
-
 └── .env
 
 ---
