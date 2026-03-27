@@ -42,8 +42,9 @@ youtube-rag-chatbot/
 
 Clone the repository:
 
-git clone https://github.com/your-username/youtube-rag-chatbot.git  
-cd youtube-rag-chatbot  
+
+git clone https://github.com/PrateekSagarIND/YouTube-Chatbot-using-LangChain-RAG-System-.git
+cd YouTube-Chatbot-using-LangChain-RAG-System-
 
 Install dependencies:
 
